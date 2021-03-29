@@ -42,7 +42,7 @@ protobuf==3.5.1
 psutil==3.4.2
 ptyprocess==0.5.2
 pycurl==7.43.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyliblzma==0.5.3
 python-apt==1.1.0b1
 python-dateutil==2.6.1
