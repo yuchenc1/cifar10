@@ -55,7 +55,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.11.0
 SOAPpy==0.12.22
-tensorflow==1.15.0
+tensorflow==2.5.0
 tensorflow-gpu==1.15.0
 tensorflow-tensorboard==0.4.0
 terminado==0.8.1
